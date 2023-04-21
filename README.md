@@ -127,5 +127,5 @@ curl 127.0.0.1:44963
 
 response should be:
 ```
-Hello Srinu 
+Hello Srinu. 
 ```
